@@ -2,10 +2,13 @@
 
 IMDb Series Scraper is a Python script designed to scrape episode data from IMDb for a given TV series. It fetches details such as episode titles, thumbnails, and descriptions, and saves them in a JSON file.
 
+## [Demo video](https://www.youtube.com/watch?v=oQRiYjB8dDU)
+
 ## Project Structure
 
 ```
 .
+├── README.md
 ├── main.py
 └── requirements.txt
 ```
@@ -22,8 +25,8 @@ The project dependencies are listed in the `requirements.txt` file. They include
 1. **Clone the repository**
 
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/Odisseu93/imdb-series-scraper
+   cd imdb-series-scraper
    ```
 
 2. **Create and activate a virtual environment (optional but recommended)**
