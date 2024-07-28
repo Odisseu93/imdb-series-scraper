@@ -94,7 +94,7 @@ The script creates a directory named `data` (if it doesn't already exist) and sa
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the [MIT License](LICENSE.md). See the LICENSE file for details.
 
 ## Acknowledgments
 
